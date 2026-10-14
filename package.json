@@ -1,0 +1,20 @@
+{
+  "name": "student-fee-management",
+  "version": "1.0.0",
+  "description": "Student Fee Management Dashboard with React, Vanilla CSS, and MySQL",
+  "scripts": {
+    "server": "node backend/server.js",
+    "client": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "test:js": "node solutions/javascript_solutions.js"
+  },
+  "keywords": [
+    "react",
+    "vanilla-css",
+    "mysql",
+    "dashboard",
+    "fee-management"
+  ],
+  "author": "Bhupendra Dewangan",
+  "license": "ISC"
+}
